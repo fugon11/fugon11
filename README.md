@@ -5,6 +5,6 @@
 <samp>You can find me on:</samp>
 
   - <samp>[My website: phuongphung.com](https://phuongphung.com)</samp>
-  - <samp>[Github (@fugon11)](https://github.com/fugon11) <- You are here!</samp>
+  - <samp>[Github (@fuongz)](https://github.com/fuongz) <- You are here!</samp>
   - <samp>[Linkedin](https://www.linkedin.com/in/phungthephuong)</samp>
-  - <samp>[Twitter @fugon11](https://twitter.com/fugon11)</samp>
+  - <samp>[Twitter @fuong_z](https://twitter.com/fuong_z)</samp>
