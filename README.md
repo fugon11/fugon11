@@ -1,4 +1,4 @@
-<samp>Hi, I'm @[fugon11](https://phuongphung.com) (Phuong Phung), a software engineer from Vietnam.</samp>
+<samp>Hi, I'm @[fuongz](https://phuongphung.com) (Phuong Phung), a software engineer from Vietnam.</samp>
 
 <samp>I currently live in Ho Chi Minh, Vietnam 🇻🇳</samp>
 
